@@ -8,6 +8,8 @@ An interactive workflow automation dashboard built using Streamlit and Python to
  https://business-process-automation-dashboardgit-bamgtwoz2zq3bar6en9d4.streamlit.app/
  
 <img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/1e8a9e78-15f5-4401-943a-a917a341d755" />
+
+
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/a6fa63ed-a137-4737-be87-bdf868696b17" />
 
 📌 Overview
@@ -23,26 +25,31 @@ It simulates how automation tools improve operational efficiency in real-world o
 
 ✨ Features
 
-📝 Manual task input & CSV upload support
-🧠 Rule-based task categorization (Finance, IT, Communication, Operations)
-⚡ Priority assignment (High, Medium, Low)
-✅ Interactive task status update using checkboxes
-📊 Real-time dashboard metrics (Total, High Priority, Completed)
-🔍 Search and filtering capabilities
-🤖 Smart recommendation for next task to focus on
-📥 Export processed tasks as CSV
+## ✨ Features
+
+- 📝 Manual task input & CSV upload support  
+- 🧠 Rule-based task categorization  
+- ⚡ Priority assignment  
+- ✅ Interactive task status update  
+- 📊 Real-time dashboard metrics  
+- 🔍 Search and filtering  
+- 🤖 Smart recommendation  
+- 📥 Export as CSV  
+
 🛠️ Tech Stack
 Frontend & Backend: Streamlit
 Language: Python
 Data Handling: Pandas
+
 🧠 How It Works
 User inputs tasks manually or uploads a CSV
 Each task is:
-Categorized using keyword-based rules
-Assigned a priority based on urgency and context
-Tasks are displayed in an interactive table
-Users can mark tasks as completed
-Dashboard updates automatically with insights
+- Categorized using keyword-based rules
+- Assigned a priority based on urgency and context
+- Tasks are displayed in an interactive table
+- Users can mark tasks as completed
+- Dashboard updates automatically with insights
+
 📂 Project Structure
 automation-dashboard/
 │
