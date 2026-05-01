@@ -56,22 +56,19 @@ automation-dashboard/
 ├── app.py              # Main Streamlit app
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation
-▶️ Run Locally
-git clone https://github.com/your-username/automation-dashboard.git
-cd automation-dashboard
-pip install -r requirements.txt
-streamlit run app.py
+
+
 📈 Future Improvements
 📅 Add deadlines and overdue alerts
 🤖 AI-based task categorization (NLP)
 🔐 User authentication system
 📊 Advanced analytics dashboard
-🎯 Key Learnings
+
+- Key Learnings
 Built an end-to-end interactive web application
 Learned state management using Streamlit
 Implemented rule-based automation logic
 Designed user-friendly dashboard UI
 👤 Author
 
-Nupur Patwardhan
-🔗 LinkedIn: https://www.linkedin.com/in/nupur-patwardhan-8978ba293
+
